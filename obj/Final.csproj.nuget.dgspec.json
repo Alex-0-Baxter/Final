@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AlexB\\OneDrive\\CCU\\Spring 2024\\Programming Foundations II\\week 16\\Final\\Final.csproj": {}
+    "c:\\Users\\AlexB\\OneDrive\\CCU\\Spring 2024\\Programming Foundations II\\week 16\\Final\\Final.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AlexB\\OneDrive\\CCU\\Spring 2024\\Programming Foundations II\\week 16\\Final\\Final.csproj": {
+    "c:\\Users\\AlexB\\OneDrive\\CCU\\Spring 2024\\Programming Foundations II\\week 16\\Final\\Final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AlexB\\OneDrive\\CCU\\Spring 2024\\Programming Foundations II\\week 16\\Final\\Final.csproj",
+        "projectUniqueName": "c:\\Users\\AlexB\\OneDrive\\CCU\\Spring 2024\\Programming Foundations II\\week 16\\Final\\Final.csproj",
         "projectName": "Final",
-        "projectPath": "C:\\Users\\AlexB\\OneDrive\\CCU\\Spring 2024\\Programming Foundations II\\week 16\\Final\\Final.csproj",
+        "projectPath": "c:\\Users\\AlexB\\OneDrive\\CCU\\Spring 2024\\Programming Foundations II\\week 16\\Final\\Final.csproj",
         "packagesPath": "C:\\Users\\AlexB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AlexB\\OneDrive\\CCU\\Spring 2024\\Programming Foundations II\\week 16\\Final\\obj\\",
+        "outputPath": "c:\\Users\\AlexB\\OneDrive\\CCU\\Spring 2024\\Programming Foundations II\\week 16\\Final\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AlexB\\AppData\\Roaming\\NuGet\\NuGet.Config"
