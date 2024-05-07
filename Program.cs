@@ -2,9 +2,12 @@
 
 while(true)
 {
-    Console.WriteLine("What is your birthday? (mm/dd/yyyy)");
+    Console.WriteLine("What is your birthday? (mm/dd/yyyy format and q to quit) ");
 
     var usrBirthday = Console.ReadLine();
+    if (usrBirthday == "q"){
+        break;
+    }
     var today = DateTime.Now;
 
 
