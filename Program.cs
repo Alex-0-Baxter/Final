@@ -16,15 +16,17 @@ while(true)
 
     var dayAge = today - realDay;
 
-    Console.WriteLine($" THE LORD HAS GIVEN YOU {dayAge.Days} DAYS!");
+    int intday = (int)dayAge.Days;
+
+    Console.WriteLine($"THE LORD HAS GIVEN YOU {intday} DAYS!");
 
     if (dayAge.Days < 26809)
     {
-        Console.WriteLine($"you may only have {26809-dayAge.Days} left. use them well"); //number of days based on avg life expectancy of 73.4 years
+        Console.WriteLine($"You may only have {26809-dayAge.Days} left. use them well"); //number of days based on avg life expectancy of 73.4 years
     }
     else
     {
-        Console.WriteLine("you beat the odds.");
+        Console.WriteLine("You beat the odds.");
     }
 
 }
